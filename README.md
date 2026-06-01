@@ -52,4 +52,4 @@ npm run dev
 ```
 
 ## 📄 License
-MIT
+MIT - Sarth Hemant Joshi
